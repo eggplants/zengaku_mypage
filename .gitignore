@@ -1,2 +1,2 @@
-!cgi-bin/
-!pages/
+cgi-bin/*
+pages/*
